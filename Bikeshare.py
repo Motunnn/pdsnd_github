@@ -23,7 +23,7 @@ import numpy as np
 
 
 # The data uses three csv file from three cities for and the end users have the opportunity to filter to a city fo chouce
-
+# Addtional comment added on the 20th of May
 # In[2]:
 
 
@@ -92,14 +92,14 @@ def get_filters():
           day = 'all'
           
           
-    print('-'*40)
+    print('-'*60)
 
     print('Thanks for your selection. Here is what you have selected')
-    print("City  ->", city.title())
+    print("Chosen City  ->", city.title())
     if date_filter == 'month': 
         print("Month ->",  month.title())
     elif date_filter =='day':
-        print("Day -> " , day.title())
+        print("Chosen day -> " , day.title())
     else: 
         print('month & day filter')
     
