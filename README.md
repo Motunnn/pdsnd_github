@@ -1,7 +1,10 @@
 
+<<<<<<< HEAD
 
 ### Date created
-This file was last edited on the 21 May 2021
+
+This Readme.md file was last edited on on 21 May 2021.
+
 
 ### Project Title
 Udacity Bikeshare project
@@ -11,7 +14,7 @@ The bikeshare data explores the use of bikes in three cities in the United State
 The project uses Rubrik to make an interactive system for users to request information about the cities they are interested in, and the result is provided to them. 
 
 ### Files used
-The files uses are: 
+The files used are: 
 
 -Washington.csv
 -New York.csv
@@ -26,7 +29,7 @@ https://github.com/Aritra96/bikeshare-project/blob/master/bikeshare.py - Compare
 https://www.w3schools.com/python/ref_string_upper.asp - String methods
 https://github.com/ipython/ipython/issues/11027 - issues with blank outputs
 https://stackoverflow.com/questions/53680913/typeerror-cannot-unpack-non-iterable-nonetype-object/
-https://stackoverflow.com/questions/53680913/typeerror-cannot-unpack-non-iterable-nonetype-object/
 https://stackoverflow.com/questions/61045349/how-to-edit-gitignore-file - Editing gitignore files
+
 
 
