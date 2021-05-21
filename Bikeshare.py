@@ -10,7 +10,8 @@
 #                                 
 #                                 Project: Exploring the bike share data
 #                                 Name: Motun Adesina
-#                                 Programming for data science Nanodegree 
+#                                 Programming for data science Nanodegree
+# Last edit made May 21
 # 
 # 
 
@@ -179,7 +180,7 @@ def time_stats(df):
     print(f'The most common start hour is: {common_start_hour}')
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*60)
     
 
 
