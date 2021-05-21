@@ -1,6 +1,6 @@
 
 =======
-This Readme.md file was last edited on on 20th May 2021.
+This Readme.md file was last edited on on 21 May 2021.
 
 ### Project Title
 Udacity bikeshare project
@@ -24,5 +24,5 @@ https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month_name.html - 
 https://github.com/Aritra96/bikeshare-project/blob/master/bikeshare.py - Compared results and read through the code for improvements on my code
 https://www.w3schools.com/python/ref_string_upper.asp - String methods
 https://github.com/ipython/ipython/issues/11027 - issues with blank outputs
-https://stackoverflow.com/questions/61045349/how-to-edit-gitignore-file - Editing gitignore files
+https://stackoverflow.com/questions/61045349/how-to-edit-gitignore-file - Editing .gitignore files
 
